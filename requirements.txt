@@ -1,0 +1,9 @@
+numpy
+opencv-python
+scipy
+matplotlib
+scikit-image
+future
+pillow
+cupy
+darsia
